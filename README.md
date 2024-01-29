@@ -2,7 +2,6 @@
 - 👀 I’m interested in : Front End Technologies
 - 🌱 I’m currently learning : Javascript
 - 😄 Pronouns : he/him
-- ⚡ Fun fact: .
 
 <!---
 riteshrawat22/riteshrawat22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
